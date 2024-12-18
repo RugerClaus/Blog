@@ -77,4 +77,12 @@ a {
         width: 100%;
         justify-content: center;
     }
+    main caption {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
+    main caption p {
+        width: 40%;
+    }
 }
