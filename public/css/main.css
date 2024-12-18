@@ -36,4 +36,7 @@ a {
         justify-content: center;
         align-items: center;
     }
+    header nav a {
+        width: 25%;
+    }
 }
