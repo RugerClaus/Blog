@@ -25,7 +25,8 @@ a {
     }
     header h1 {
         width: 20%;
-        background-color: gray;
+        background-color: darkgray;
+        color: black;
         display: flex;
         justify-content: center;
     }
