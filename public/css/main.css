@@ -48,23 +48,24 @@ a {
         background-color: lightgray;
         border: 1px solid whitesmoke;
     }
+    main {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
     footer {
         bottom: 0;
         display: flex;
         justify-content: center;
         align-items: center;
         height: 80px;
-        background-color: lightgray;
-    }
-    footer p {
         background-color: darkgray;
+        color: whitesmoke;
     }
     main {
         display: flex;
         width: 90vw;
-        flex-direction: row;
+        flex-direction: column;
         align-items: center;
-        justify-content: space-between;
     }
     main h1 {
         width: 100%;
