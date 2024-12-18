@@ -17,6 +17,11 @@
             <a href="/about">About</a>
         </nav>
     </header>
-    @yield('main')
+    <main>
+        @yield('main')
+    </main>
+    <footer>
+        Copyleft - take what parts ya want, just throw me a bone.
+    </footer>
 </body>
 </html>

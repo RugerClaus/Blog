@@ -49,4 +49,14 @@ a {
         background-color: lightgray;
         border: 1px solid whitesmoke;
     }
+    main {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    footer {
+        bottom: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
