@@ -17,5 +17,6 @@
             <a href="/about">About</a>
         </nav>
     </header>
+    @yield('main')
 </body>
 </html>
