@@ -60,6 +60,9 @@ a {
         background-color: darkgray;
         color: whitesmoke;
     }
+    .about {
+        margin: auto 10vw auto;
+    }
     .about h1 {
         width: 100%;
         display: flex;
