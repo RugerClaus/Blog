@@ -51,14 +51,6 @@ a {
         color: black;
         background-color: lightgray;
     }
-    main {
-        margin-left: 10%;
-        margin-right: 10%;
-        display: flex;
-        width: 90vw;
-        flex-direction: column;
-        align-items: center;
-    }
     footer {
         bottom: 0;
         display: flex;
