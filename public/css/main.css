@@ -48,7 +48,6 @@ a {
     header nav a:hover {
         color: black;
         background-color: lightgray;
-        border: 1px solid whitesmoke;
     }
     main {
         margin-left: 10%;
