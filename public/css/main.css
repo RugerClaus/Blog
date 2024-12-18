@@ -77,7 +77,8 @@ a {
         display: flex;
         width: 100%;
         justify-content: center;
-        margin:5em auto 5em;
+        margin-top:5em;
+        margin-bottom: 5em;
     }
     .about caption p {
         width: 40%;
