@@ -17,7 +17,7 @@ a {
 
 @media(min-width:1000px){
     header {
-        width: 100%;
+        width: 100%; /* Adjusted to avoid overflow */
         display: flex;
         flex-direction: column;
         justify-content: left;
@@ -32,12 +32,13 @@ a {
     header nav {
         display: flex;
         flex-direction: row;
-        width: 50%;
+        width: 100%; /* Adjusted width to 100% of the container */
         justify-content: left;
         align-items: center;
     }
+    
     header nav a {
-        width: 25%;
+        flex: 1; /* Allow flex to adjust size dynamically */
         display: flex;
         justify-content: center;
         align-items: center;
