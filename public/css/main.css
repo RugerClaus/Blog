@@ -66,6 +66,7 @@ a {
     }
     main h1 {
         width: 100%;
+        display: flex;
         justify-content: center;
     }
     main figure {
