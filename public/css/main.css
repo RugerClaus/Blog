@@ -68,22 +68,22 @@ a {
         background-color: darkgray;
         color: whitesmoke;
     }
-    main h1 {
+    .about h1 {
         width: 100%;
         display: flex;
         justify-content: center;
     }
-    main figure {
+    .about figure {
         display: flex;
         width: 100%;
         justify-content: center;
     }
-    main caption {
+    .about caption {
         display: flex;
         width: 100%;
         justify-content: center;
     }
-    main caption p {
+    .about caption p {
         width: 40%;
     }
 }
