@@ -11,6 +11,10 @@ body {
     height: 100%;
 }
 
+a {
+    text-decoration: none;
+}
+
 @media(min-width:1000px){
     header {
         width: 100vw;
