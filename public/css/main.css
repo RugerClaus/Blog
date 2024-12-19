@@ -75,6 +75,7 @@ a {
         display: flex;
         justify-content: center;
         height: 5rem;
+        font-size: xx-large;
     }
     .about figure {
         display: flex;
@@ -90,5 +91,6 @@ a {
     }
     .about caption p {
         width: 40%;
+        font-size: 15;
     }
 }
