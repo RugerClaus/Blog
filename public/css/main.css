@@ -92,7 +92,9 @@ a {
 
     }
     .about caption .blurb {
-        width: 40%;
+        width: 40%;   
+    }
+    .blurb {
         font-size: 40px;
     }
 }
