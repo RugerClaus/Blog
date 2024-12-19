@@ -89,9 +89,9 @@ a {
         justify-content: center;
         margin-top:5em;
         margin-bottom: 5em;
+        font-size: 40px;
     }
     .about caption p {
         width: 40%;
-        font-size: 40px;
     }
 }
