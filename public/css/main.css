@@ -31,8 +31,7 @@ a {
         justify-content: center;
         align-items: center;
         height: 10rem;
-        position:sticky;
-        top: 85px;
+        font-size: xx-large;
     }
     header nav {
         display: flex;
