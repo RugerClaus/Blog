@@ -39,6 +39,8 @@ a {
         justify-content: left;
         align-items: center;
         font-family: serif;
+        position: sticky;
+        top: 0;
     }
     
     header nav a {
