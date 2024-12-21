@@ -27,10 +27,10 @@ a {
         flex-direction: row;
         justify-content: left;
         align-items: center;
-        font-family: roboto;
-        width: 100%;
+        font-family: serif;
     }
     nav .navbar a {
+        flex: 1; /* Allow flex to adjust size dynamically */
         display: flex;
         justify-content: center;
         align-items: center;
