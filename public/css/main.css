@@ -42,16 +42,6 @@ a {
     header {
         width: 100%; /* Adjusted to avoid overflow */
         position: relative;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-    header .header-text {
-        color: whitesmoke;
-        font-size: 45px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
     }
     header .logo {
         display: flex;
