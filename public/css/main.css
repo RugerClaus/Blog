@@ -40,6 +40,7 @@ a {
         position: relative;
         display: grid;
         grid-template-columns: repeat(3,1fr);
+        grid-template-rows: 1;
         top: 30px;
     }
     header h1 {
