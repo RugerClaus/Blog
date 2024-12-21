@@ -43,7 +43,7 @@ a {
         position: fixed;
         top: 0;
     }
-    header .logo {
+    header h1 .logo {
         width: 10rem;
     }
     
