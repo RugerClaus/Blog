@@ -28,7 +28,8 @@ a {
         width: 100%;
         color: whitesmoke;
         display: flex;
-        justify-content: center;
+        justify-self: center;
+        justify-content: space-between;
         align-items: center;
         height: 10rem;
         font-size: 50px;
@@ -44,7 +45,7 @@ a {
         top: 0;
     }
     header h1 .logo {
-        width: 5rem;
+        width: 7rem;
     }
     
     header nav a {
