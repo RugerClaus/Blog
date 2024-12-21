@@ -49,11 +49,8 @@ a {
     header h1 {
         width: 100%;
         color: whitesmoke;
-        height: 10rem;
         font-size: 50px;
         grid-column: 3;
-        top: 0;
-        right: 0;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -64,8 +61,6 @@ a {
         display: flex;
         justify-content: center;
         align-items: center;
-        top: 0;
-        left: 0;
     }
     header .logo .logo-img {
         display: flex;
