@@ -45,6 +45,7 @@ a {
         display: grid;
         grid-template-columns: repeat(3,1fr);
         grid-template-rows: 1;
+        max-height: 100px;
     }
     header h1 {
         color: whitesmoke;
@@ -53,12 +54,14 @@ a {
         display: flex;
         justify-content: center;
         align-items: center;
+        height: 100%;
     }
     header .logo {
         grid-column: 1;
         display: flex;
         justify-content: center;
         align-items: center;
+        height: 100%;
     }
     header .logo .logo-img {
         display: flex;
