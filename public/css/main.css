@@ -53,6 +53,7 @@ a {
         display: flex;
         justify-content: center;
         align-items: center;
+        max-height: 100px;
     }
     header .logo {
         grid-column: 1;
