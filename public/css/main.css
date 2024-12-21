@@ -35,6 +35,10 @@ a {
         align-items: center;
         font-size: x-large;
     }
+    nav a:hover {
+        color: black;
+        background-color: lightgray;
+    }
     header {
         width: 100%; /* Adjusted to avoid overflow */
         position: relative;
@@ -68,10 +72,6 @@ a {
         display: flex;
         align-items: center;
         justify-content: center;
-    }
-    header nav a:hover {
-        color: black;
-        background-color: lightgray;
     }
     main {
         margin-top: 25px;

@@ -17,7 +17,7 @@
     <header>
         <h1>Unknown Anarchist</h1>
         <div class="logo" aria-label="Unknown Anarchist Logo">
-            <img src="{{asset('images/logo.jpeg')}}" alt="Unknown Anarchist Logo" class='logo-img'>
+            <img src="{{asset('images/logo96.webp')}}" alt="Unknown Anarchist Logo" class='logo-img'>
         </div>
 
     </header>
