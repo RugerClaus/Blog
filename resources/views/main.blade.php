@@ -17,10 +17,12 @@
 
     </header>
     <nav>
-        <a href="/">Home</a>
-        <a href="/blog">Blog</a>
-        <a href="/contact">Contact</a>
-        <a href="/about">About</a>
+        <div class="navbar">
+            <a href="/">Home</a>
+            <a href="/blog">Blog</a>
+            <a href="/contact">Contact</a>
+            <a href="/about">About</a>
+        </div>
     </nav>
     <main>
         @yield('main')

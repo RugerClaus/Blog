@@ -17,15 +17,17 @@ a {
 
 @media(min-width:1000px){
     nav {
-        display: flex;
-        flex-direction: row;
-        width: 100%; /* Adjusted width to 100% of the container */
-        justify-content: left;
-        align-items: center;
-        font-family: serif;
         position: sticky;
         top: 0;
         background-color: black;
+        width: 100%;
+    }
+    nav .navbar {
+        display: flex;
+        flex-direction: row;
+        justify-content: left;
+        align-items: center;
+        font-family: serif;
     }
     nav a {
         flex: 1; /* Allow flex to adjust size dynamically */
