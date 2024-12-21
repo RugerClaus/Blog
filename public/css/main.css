@@ -29,9 +29,9 @@ a {
         align-items: center;
         font-family: serif;
         position: fixed;
+        width: 100%;
     }
     nav .navbar a {
-        flex: 1; /* Allow flex to adjust size dynamically */
         display: flex;
         justify-content: center;
         align-items: center;
