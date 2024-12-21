@@ -43,9 +43,10 @@ a {
         font-family: serif;
         position: fixed;
         top: 0;
+        background-color: black;
     }
     header h1 .logo {
-        width: 7rem;
+        width: 6rem;
     }
     
     header nav a {
