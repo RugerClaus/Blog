@@ -48,7 +48,7 @@ a {
         justify-content: center;
         align-items: center;
     }
-    header .header-text h1 {
+    header .header-text {
         color: whitesmoke;
         font-size: 50px;
         grid-column: 3;
