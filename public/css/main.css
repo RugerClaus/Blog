@@ -31,7 +31,6 @@ a {
         justify-content: left;
         align-items: center;
         font-family: serif;
-        opacity: 0;
     }
     nav .navbar a {
         flex: 1; /* Allow flex to adjust size dynamically */
