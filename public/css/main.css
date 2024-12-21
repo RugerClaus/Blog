@@ -37,6 +37,7 @@ a {
     }
     header {
         width: 100%; /* Adjusted to avoid overflow */
+        position: relative;
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
