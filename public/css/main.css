@@ -62,7 +62,9 @@ a {
         top: 0;
         left: 0;
     }
-    
+    header .logo .logo-img {
+        width: 6rem;
+    }
     header nav a:hover {
         color: black;
         background-color: lightgray;
