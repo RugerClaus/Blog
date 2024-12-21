@@ -8,13 +8,13 @@
     <title>Unknown Anarchist: @yield('title')</title>
 </head>
 <body>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/blog">Blog</a>
+        <a href="/contact">Contact</a>
+        <a href="/about">About</a>
+    </nav>
     <header>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/blog">Blog</a>
-            <a href="/contact">Contact</a>
-            <a href="/about">About</a>
-        </nav>
         <h1>Unknown Anarchist<img src="{{asset('images/logo.jpeg')}}" alt="Unknown Anarchist Logo" class='logo'></h1>
     </header>
     <main>

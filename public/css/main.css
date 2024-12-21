@@ -17,24 +17,7 @@ a {
 }
 
 @media(min-width:1000px){
-    header {
-        width: 100%; /* Adjusted to avoid overflow */
-        display: flex;
-        flex-direction: column;
-        justify-content: left;
-        align-items: center;
-    }
-    header h1 {
-        width: 100%;
-        color: whitesmoke;
-        display: flex;
-        justify-self: center;
-        justify-content: space-between;
-        align-items: center;
-        height: 10rem;
-        font-size: 50px;
-    }
-    header nav {
+    nav {
         display: flex;
         flex-direction: row;
         width: 100%; /* Adjusted width to 100% of the container */
@@ -45,16 +28,32 @@ a {
         top: 0;
         background-color: black;
     }
-    header h1 .logo {
-        width: 6rem;
-    }
-    
-    header nav a {
+    nav a {
         flex: 1; /* Allow flex to adjust size dynamically */
         display: flex;
         justify-content: center;
         align-items: center;
         font-size: x-large;
+    }
+    header {
+        width: 100%; /* Adjusted to avoid overflow */
+        display: flex;
+        flex-direction: column;
+        justify-content: left;
+        align-items: center;
+        top: 30;
+    }
+    header h1 {
+        width: 100%;
+        color: whitesmoke;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 10rem;
+        font-size: 50px;
+    }
+    header h1 .logo {
+        width: 6rem;
     }
     header nav a:hover {
         color: black;
