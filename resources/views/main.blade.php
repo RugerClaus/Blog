@@ -9,14 +9,13 @@
 </head>
 <body>
     <header>
-        <h1>Unknown Anarchist</h1>
-        <img src="{{asset('images/logo.jpeg')}}" alt="Unknown Anarchist Logo" class='logo'>
         <nav>
             <a href="/">Home</a>
             <a href="/blog">Blog</a>
             <a href="/contact">Contact</a>
             <a href="/about">About</a>
         </nav>
+        <h1>Unknown Anarchist<img src="{{asset('images/logo.jpeg')}}" alt="Unknown Anarchist Logo" class='logo'></h1>
     </header>
     <main>
         @yield('main')
