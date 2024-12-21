@@ -57,6 +57,8 @@ a {
     header .logo {
         grid-column: 1;
         width: 6rem;
+        position: absolute;
+        left: 0;
         display: flex;
         justify-content: center;
         align-items: center;
