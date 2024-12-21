@@ -41,7 +41,7 @@ a {
         flex-direction: row;
         justify-content: space-evenly;
         align-items: center;
-        top: 30;
+        top: 30px;
     }
     header h1 {
         width: 100%;
