@@ -27,8 +27,7 @@ a {
         flex-direction: row;
         justify-content: left;
         align-items: center;
-        font-family: serif;
-        position: fixed;
+        font-family: roboto;
         width: 100%;
     }
     nav .navbar a {
