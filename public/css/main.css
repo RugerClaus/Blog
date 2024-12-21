@@ -51,7 +51,7 @@ a {
         height: 10rem;
         font-size: 50px;
     }
-    header h1 .logo {
+    header .logo {
         width: 6rem;
         justify-self: flex-end;
     }
