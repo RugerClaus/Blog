@@ -4,12 +4,11 @@
     box-sizing: border-box;
     font-family: helvetica;
     color: white;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 body {
     background-color: black;
-    overflow: hidden;
 }
 
 a {
@@ -22,6 +21,7 @@ a {
         top: 0;
         background-color: black;
         width: 100%;
+        display: inline;
     }
     nav .navbar {
         display: flex;
