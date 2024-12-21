@@ -43,7 +43,7 @@ a {
         width: 100%; /* Adjusted to avoid overflow */
         position: relative;
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 3fr;
         grid-template-rows: none;
         justify-content: center;
         align-items: center;
