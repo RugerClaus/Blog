@@ -21,7 +21,7 @@ a {
         top: 0;
         background-color: black;
         width: 100%;
-        display: inline;
+        position: relative;
     }
     nav .navbar {
         display: flex;
