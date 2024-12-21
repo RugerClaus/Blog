@@ -38,22 +38,21 @@ a {
     header {
         width: 100%; /* Adjusted to avoid overflow */
         display: flex;
-        flex-direction: column;
-        justify-content: left;
+        flex-direction: row;
+        justify-content: space-evenly;
         align-items: center;
         top: 30;
     }
     header h1 {
         width: 100%;
         color: whitesmoke;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
+        justify-self: flex-start;
         height: 10rem;
         font-size: 50px;
     }
     header h1 .logo {
         width: 6rem;
+        justify-self: flex-end;
     }
     header nav a:hover {
         color: black;

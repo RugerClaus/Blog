@@ -15,7 +15,8 @@
         <a href="/about">About</a>
     </nav>
     <header>
-        <h1>Unknown Anarchist<img src="{{asset('images/logo.jpeg')}}" alt="Unknown Anarchist Logo" class='logo'></h1>
+        <h1>Unknown Anarchist</h1>
+        <img src="{{asset('images/logo.jpeg')}}" alt="Unknown Anarchist Logo" class='logo'>
     </header>
     <main>
         @yield('main')
