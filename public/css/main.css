@@ -44,11 +44,11 @@ a {
         position: relative;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows: 1;
+        grid-template-rows: 1fr;
         justify-content: center;
         align-items: center;
     }
-    header h1 {
+    header .header-text h1 {
         color: whitesmoke;
         font-size: 50px;
         grid-column: 3;

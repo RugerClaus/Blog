@@ -15,7 +15,9 @@
         <a href="/about">About</a>
     </nav>
     <header>
-        <h1>Unknown Anarchist</h1>
+        <div class="header-text">
+            <h1>Unknown Anarchist</h1>
+        </div>
         <div class="logo" aria-label="Unknown Anarchist Logo">
             <img src="{{asset('images/logo-96.webp')}}" alt="Unknown Anarchist Logo" class='logo-img'>
         </div>
