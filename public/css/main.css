@@ -30,14 +30,14 @@ a {
         align-items: center;
         font-family: serif;
     }
-    nav a {
+    nav .navbar a {
         flex: 1; /* Allow flex to adjust size dynamically */
         display: flex;
         justify-content: center;
         align-items: center;
         font-size: x-large;
     }
-    nav a:hover {
+    nav .navbar a:hover {
         color: black;
         background-color: lightgray;
     }
