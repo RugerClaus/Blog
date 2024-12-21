@@ -41,7 +41,6 @@ a {
         display: grid;
         grid-template-columns: repeat(3,1fr);
         top: 30px;
-        max-height: 96px;
     }
     header h1 {
         width: 100%;
@@ -57,14 +56,13 @@ a {
     }
     header .logo {
         grid-column: 1;
-        width: 6rem;
-        position: absolute;
-        left: 0;
         display: flex;
         justify-content: center;
         align-items: center;
         top: 0;
+        left: 0;
     }
+    
     header nav a:hover {
         color: black;
         background-color: lightgray;

@@ -16,7 +16,10 @@
     </nav>
     <header>
         <h1>Unknown Anarchist</h1>
-        <img src="{{asset('images/logo.jpeg')}}" alt="Unknown Anarchist Logo" class='logo'>
+        <div class="logo" aria-label="Unknown Anarchist Logo">
+            <img src="{{asset('images/logo.jpeg')}}" alt="Unknown Anarchist Logo" class='logo-img'>
+        </div>
+
     </header>
     <main>
         @yield('main')
