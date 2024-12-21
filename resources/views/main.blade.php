@@ -10,6 +10,7 @@
 <body>
     <header>
         <h1>Unknown Anarchist</h1>
+        <img src="{{asset('images/logo.jpeg')}}" alt="Unknown Anarchist Logo">
         <nav>
             <a href="/">Home</a>
             <a href="/blog">Blog</a>
