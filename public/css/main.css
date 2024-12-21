@@ -41,6 +41,7 @@ a {
         display: grid;
         grid-template-columns: repeat(3,1fr);
         top: 30px;
+        max-height: 96px;
     }
     header h1 {
         width: 100%;
