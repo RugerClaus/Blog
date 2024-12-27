@@ -99,4 +99,7 @@ a {
         margin-left: auto;
         margin-right: auto;
     }
+    main .homeText h2 {
+        text-align: center;
+    }
 }
