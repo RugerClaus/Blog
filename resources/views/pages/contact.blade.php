@@ -4,7 +4,7 @@
     <section class="contact">
         This is the best way to contact me. Perks of developing my own webapp, I don't have to give you my email.
         <form action="/send">
-            <input type="text" name="message">
+            <textarea name="message" id="message" cols="30" rows="10"></textarea>
             <input type="submit" value="Send" onclick="validate()">
         </form>
     </section>
