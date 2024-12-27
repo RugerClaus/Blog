@@ -9,7 +9,7 @@ class PagesController extends Controller
 {
     private function operator(){
         $operators = ['+','-','/','*'];
-        $operator = $operators[rand(0,count($operators))];
+        $operator = $operators[rand(0,count($operators)-1)];
         return $operator;
     }
 
