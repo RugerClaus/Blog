@@ -106,4 +106,7 @@ a {
         text-align: center;
         padding: 20px;
     }
+    main .homeText img {
+        max-width: 60%;
+    }
 }

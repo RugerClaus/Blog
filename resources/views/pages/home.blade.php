@@ -39,6 +39,9 @@
         <p class="blurb">
             Ultimately, property isn’t just about owning things—it’s about power. And when a few people own the means of production, 
             they hold the power to shape the lives of everyone else. This concentration of power is exactly what anarchism seeks to dismantle.
-        </p>        
+        </p>
+        <h2>Screenshots:</h2>
+        <img src="{{asset('images/megpt1.png')}}" alt="My chat to ChatGPT">
+        <img src="{{asset('images/gptgpt1.png')}}" alt="ChatGPT's response">        
     </section>
 @endsection
