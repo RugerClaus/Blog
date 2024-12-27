@@ -9,7 +9,6 @@
 
 body {
     background-color: black;
-    height: 100%;
 }
 
 a {
@@ -17,43 +16,41 @@ a {
 }
 
 @media(min-width:1000px){
-    header {
-        width: 100%; /* Adjusted to avoid overflow */
-        display: flex;
-        flex-direction: column;
-        justify-content: left;
-        align-items: center;
+    nav {
+        position: fixed;
+        top: 0;
+        width: 70%;
+        z-index: 100;
+        margin-left: 15%;
+        margin-right: 15%;
+        opacity: 1;
     }
-    header h1 {
-        width: 100%;
-        color: whitesmoke;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 10rem;
-        font-size: 50px;
-    }
-    header nav {
+    nav .navbar {
         display: flex;
         flex-direction: row;
-        width: 100%; /* Adjusted width to 100% of the container */
         justify-content: left;
         align-items: center;
         font-family: serif;
-        position: fixed;
-        top: 0;
     }
-    
-    header nav a {
+    nav .navbar a {
         flex: 1; /* Allow flex to adjust size dynamically */
         display: flex;
         justify-content: center;
         align-items: center;
         font-size: x-large;
     }
-    header nav a:hover {
+    nav .navbar a:hover {
         color: black;
         background-color: lightgray;
+    }
+    header {
+        width: 100%; /* Adjusted to avoid overflow */
+        position: relative;
+    }
+    header .logo {
+        display: flex;
+        justify-content: left;
+        align-items: center;
     }
     main {
         margin-top: 25px;
