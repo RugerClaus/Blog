@@ -94,4 +94,7 @@ a {
     .blurb {
         font-size: 20px;
     }
+    .homeText {
+        width: 80%;
+    }
 }
