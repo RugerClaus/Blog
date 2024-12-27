@@ -25,7 +25,7 @@ class PagesController extends Controller
     {
         return view('pages.contact',['num1' => random_int(1,2000),
                                     'num2' => random_int(1,2000),
-                                    'operator' => operator()]);
+                                    'operator' => $this->operator()]);
     }
     public function about()
     {
