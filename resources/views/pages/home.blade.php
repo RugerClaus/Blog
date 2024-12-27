@@ -42,6 +42,6 @@
         </p>
         <h2>Screenshots:</h2>
         <img src="{{asset('images/megpt1.png')}}" alt="My chat to ChatGPT">
-        <img src="{{asset('images/gptgpt1.png')}}" alt="ChatGPT's response">        
+        <img src="{{asset('images/gptgpt1.png')}}" alt="ChatGPT's response">      
     </section>
 @endsection

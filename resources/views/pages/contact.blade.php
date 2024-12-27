@@ -1,4 +1,28 @@
 @extends('main')
 @section('main')
-    <h1>Contact</h1>
+    <h1>Contact Me</h1>
+    <section class="contact">
+        This is the best way to contact me. Perks of developing my own webapp, I don't have to give you my email.
+        <form action="/send">
+            <input type="text" name="message">
+            <input type="submit" value="Send" onclick="validate()">
+        </form>
+    </section>
+    <div class="validator">
+        <div class="question">
+            What is {{$num1}} {{$operator}} {{$num2}}
+            <input type="text" name="answer" id="answer" class="answer">
+            <input type="submit" value="Submit" id="validate">
+        </div>
+    </div>
+    <script>
+        const validator = document.querySelector('.validator')
+        const answer = document.getElementById('answer')
+        const validate = document.getElementById('validate')
+        const question = document.querySelector('.question')
+        function validate(){
+            validator.style.display = 'block'
+            question.style.display = 'flex'
+        }
+    </script>
 @endsection
