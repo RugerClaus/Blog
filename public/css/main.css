@@ -139,6 +139,8 @@ a {
         flex-direction: column;
         justify-content: center;
         width: 100%;
-        color: black;
+    }
+    input, textarea {
+         color: black;
     }
 }
