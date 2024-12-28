@@ -2,7 +2,7 @@
 @section('title', 'About')
 @section('main')
 <section class="about">
-    <h1>About Me</h1>
+    <h1 class="pageHead">About Me</h1>
     <figure>
         <img src="{{asset('images/me.webp')}}" alt="Picture of me - Credit Reina Meza">
     </figure>

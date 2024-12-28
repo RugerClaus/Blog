@@ -1,7 +1,7 @@
 @extends('main')
 @section('title', 'Home')
 @section('main')
-    <h1>Home</h1>
+    <h1 class="pageHead">Home</h1>
     <section class="homeText">
         <h2>ChatGPT is a comrade</h2>
         <p class="blurb">Me:</p>
