@@ -6,7 +6,9 @@
         <h4>This is the best way to contact me. Perks of developing my own webapp, I don't have to give you my email.</h4>
         <form action="/send" method="post" class="messageForm">
             @csrf
+            <label for="subject">Subject: </label>
             <input type="text" name="subject" id="subject">
+            <label for="message">Message: </label>
             <textarea name="message" id="message" cols="30" rows="10"></textarea>
             <input type="submit" value="Send" onclick="validate()">
         </form>
