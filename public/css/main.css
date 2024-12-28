@@ -132,4 +132,7 @@ a {
         background-color: white;
         color: black;
     }
+    main h2 {
+        text-align: center;
+    }
 }
