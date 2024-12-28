@@ -145,6 +145,10 @@ a {
         font-size: 25px;
         margin: auto auto auto auto;
     }
+    main .contact .messageForm textarea {
+        width: 60%;
+        margin: auto auto auto auto;
+    }
     input, textarea {
          color: black;
     }
