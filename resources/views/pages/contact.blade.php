@@ -4,7 +4,7 @@
     <h1 class="pageHead">Contact Me</h1>
     <section class="contact">
         This is the best way to contact me. Perks of developing my own webapp, I don't have to give you my email.
-        <form action="/send" method="post">
+        <form action="/send" method="post" class="messageForm">
             @csrf
             <input type="text" name="subject" id="subject">
             <textarea name="message" id="message" cols="30" rows="10"></textarea>

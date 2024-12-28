@@ -136,4 +136,10 @@ a {
         text-align: center;
         width: 100%;
     }
+    main .contact .messageForm {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+    }
 }
