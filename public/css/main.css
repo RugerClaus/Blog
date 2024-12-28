@@ -143,6 +143,7 @@ a {
     main .contact .messageForm input { 
         width: 60%;
         font-size: 25px;
+        margin: auto auto auto auto;
     }
     input, textarea {
          color: black;
