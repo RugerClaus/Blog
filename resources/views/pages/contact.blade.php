@@ -1,5 +1,5 @@
 @extends('main')
-@section('title', 'Home')
+@section('title', 'Contact')
 @section('main')
     <h1>Contact Me</h1>
     <section class="contact">

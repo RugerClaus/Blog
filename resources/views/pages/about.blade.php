@@ -1,4 +1,5 @@
 @extends('main')
+@section('title', 'About')
 @section('main')
 <section class="about">
     <h1>About Me</h1>
