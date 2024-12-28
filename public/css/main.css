@@ -122,14 +122,12 @@ a {
         width: 50%;
         height: 50%;
         margin: auto auto auto auto;
-        background-color: black;
-        color: white;
+        color: black;
         font-size: 25px;
         flex-direction: row;
     }
     main .validator .question .answer {
         font-size: 15px;
-        background-color: white;
         color: black;
     }
     .pageHead {
