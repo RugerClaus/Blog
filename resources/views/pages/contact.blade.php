@@ -10,7 +10,7 @@
             <input type="text" name="subject" id="subject">
             <label for="message">Message: </label>
             <textarea name="message" id="message" cols="30" rows="10"></textarea>
-            <input type="submit" value="Send" onclick="validate()">
+            <button id="send" onclick="validate()">Send</button>
         </form>
     </section>
     <div class="validator">
@@ -25,6 +25,7 @@
         const answer = document.getElementById('answer')
         const validate = document.getElementById('validate')
         const question = document.querySelector('.question')
+        const submit = document.getElementById('send') 
         function validate(){
             validator.style.display = 'block'
             question.style.display = 'flex'
