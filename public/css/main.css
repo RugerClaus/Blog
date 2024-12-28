@@ -139,6 +139,7 @@ a {
         flex-direction: column;
         justify-content: center;
         width: 100%;
+        gap: 4em;
     }
     main .contact .messageForm input { 
         width: 60%;
