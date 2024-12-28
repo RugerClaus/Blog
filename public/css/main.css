@@ -140,6 +140,10 @@ a {
         justify-content: center;
         width: 100%;
     }
+    main .contact .messageForm input { 
+        width: 60%;
+        font-size: 25px;
+    }
     input, textarea {
          color: black;
     }
