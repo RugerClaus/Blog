@@ -139,7 +139,7 @@ a {
         flex-direction: column;
         justify-content: center;
         width: 100%;
-        gap: 4em;
+        gap: 2em;
     }
     main .contact .messageForm input { 
         width: 60%;
@@ -152,5 +152,12 @@ a {
     }
     input, textarea {
          color: black;
+    }
+    main .contact {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 2em;
     }
 }
