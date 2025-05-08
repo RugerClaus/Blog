@@ -212,5 +212,7 @@ a {
         gap: 0.5em;
     }
 
-
+    main .snowblitz .snowblitz_subsection_one ul {
+        list-style-type: disc;
+    }
 }

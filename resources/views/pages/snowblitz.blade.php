@@ -38,6 +38,17 @@
                 <li>Ice IX: These are <span style="color: rgb(0,255,0);">GREEN</span> and stop the player from shrinking/melting while its effects are active</li>
                 <li>Growth Hormones: These are <span style="color:rgb(255,0,0)">RED</span> and cause the player to grow at slightly above the base shrink rate. The player will constantly grow while its effects are active</li>
             </ul>
+
+            <a href="/download/Snowblitz1.1.3.zip"><h2>Download Game</h2></a>
+
+            <h2>Instructions:</h2>
+            <ul>
+                <li>Download Snowblitz1.1.3.zip using the link above.</li>
+                <li>Extract the files to a directory of your choosing</li>
+                <li>Open Snowblitz1.1.3</li>
+                <li>Open /dist</li>
+                <li>Run main.exe</li>
+            </ul>
         </section>
 
     </section>
