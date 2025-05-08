@@ -165,6 +165,7 @@ a {
         margin-right: auto;
         width: 100%;
         text-align: center;
+        padding-bottom: 1rem;
     }
     main .game {
         display: flex;
