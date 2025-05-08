@@ -10,7 +10,7 @@
         <caption>Main menu of game</caption>
         <br>
         <figure>
-            <img src="images/snowblitz_game.png" alt="Gameplay screenshot of Snow Blitz">
+            <img src="{{asset('images/snowblitz_game.png')}}" alt="Gameplay screenshot of Snow Blitz">
         </figure>
 
         <p>
