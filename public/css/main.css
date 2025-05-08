@@ -166,4 +166,10 @@ a {
         width: 100%;
         text-align: center;
     }
+    main .game {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+    }
 }
