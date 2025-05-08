@@ -175,5 +175,8 @@ a {
     }
     main .game p {
         text-align: left;
+        width: 100%;
+        display: flex;
+        justify-content: start;
     }
 }
