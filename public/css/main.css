@@ -176,6 +176,7 @@ a {
     }
     main .game img {
         max-width: 50%;
+        align-self: center;
     }
     main .game p {
         text-align: left;
