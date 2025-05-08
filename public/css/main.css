@@ -167,7 +167,8 @@ a {
         text-align: center;
         padding-bottom: 1rem;
     }
-    main .game {
+
+    main .games {
         display: flex;
         width: 100%;
         flex-direction: column;
@@ -175,17 +176,36 @@ a {
         align-items: center;
         gap: 2em;
     }
-    main .game figure {
+
+    main .games a {
+        max-width: 50%;
+    }
+
+    main .games a img{
+        max-width: 100%;
+    }
+
+    main .snowblitz {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 2em;
+    }
+    main .snowblitz figure {
         max-width: 50%;
     }
     
-    main .game figure img{
+    main .snowblitz figure img{
         max-width: 100%;
     }
-    main .game .game_subsection_one {
+    main .snowblitz .snowblitz_subsection_one {
         width: 60%;
         display: flex;
         flex-direction: column;
         gap: 0.5em;
     }
+
+
 }

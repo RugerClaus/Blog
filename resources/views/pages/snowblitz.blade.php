@@ -3,7 +3,7 @@
 @section('main')
 
     <h1>Snow Blitz</h1>
-    <section class="game">
+    <section class="snowblitz">
         <figure>
             <img src="{{asset('images/snowblitz_menu.png')}}" alt="Screenshot of Main Menu screen">
         </figure>
@@ -14,7 +14,7 @@
         </figure>
         <caption>Gameplay. The Player is the large blue square. The player moves left and right</caption>
 
-        <section class="game_subsection_one">
+        <section class="snowblitz_subsection_one">
             <p>
                 This is a game I have created using Python with Pygame-CE. It is a game where snow falls and you play as a snowball.
             </p>
