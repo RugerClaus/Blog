@@ -172,6 +172,7 @@ a {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        gap: 2em;
     }
     main .game p {
         text-align: left;
