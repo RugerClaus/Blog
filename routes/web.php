@@ -12,7 +12,7 @@ Route::get("/games", [PagesController::class, 'games']);
 Route::get('/games/snowblitz', [PagesController::class, 'snowblitz']);
 
 Route::get('/download/{filename}', function ($filename) {
-    $path = storage_path("app/public/{$filename}");
+    $path = storage_path("app/public/downloads/{$filename}");
 
     if (!file_exists($path)) {
         abort(404);
