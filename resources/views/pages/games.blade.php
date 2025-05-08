@@ -4,7 +4,7 @@
 @section("main")
 <h1>Games:</h1>
 <section class="games">
-    <h1>Snow Blitz:</h1>
+    <h3>Snow Blitz:</h3>
     <a href="/games/snowblitz">
         <img src="{{asset('images/snowblitz_menu.png')}}" alt="Image Link to Snow Blitz page">
     </a>
