@@ -174,9 +174,9 @@ a {
         align-items: center;
         gap: 2em;
     }
-    main .game img {
+    main .game figure {
         max-width: 50%;
-        align-self: center;
+        
     }
     main .game p {
         text-align: left;
