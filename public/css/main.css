@@ -179,6 +179,11 @@ a {
 
     main .games a {
         max-width: 50%;
+        border: 2px solid red;
+    }
+
+    main .games a:hover {
+        border: 2px solid white;
     }
 
     main .games a img{
