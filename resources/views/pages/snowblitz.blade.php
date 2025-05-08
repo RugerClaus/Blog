@@ -12,6 +12,7 @@
         <figure>
             <img src="{{asset('images/snowblitz_game.png')}}" alt="Gameplay screenshot of Snow Blitz">
         </figure>
+        <caption>Gameplay. The Player is the large blue square. The player moves left and right</caption>
 
         <p>
             This is a game I have created using Python with Pygame-CE. It is a game where snow falls and you play as a snowball.
