@@ -31,4 +31,12 @@ class PagesController extends Controller
     {
         return view('pages.about');
     }
+    public function games()
+    {
+        return view('pages.games');
+    }
+    public function snowblitz()
+    {
+        return view('pages.snowblitz');
+    }
 }
