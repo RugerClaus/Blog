@@ -176,7 +176,10 @@ a {
     }
     main .game figure {
         max-width: 50%;
-        
+    }
+    
+    main .game figure img{
+        max-width: 100%;
     }
     main .game p {
         text-align: left;
