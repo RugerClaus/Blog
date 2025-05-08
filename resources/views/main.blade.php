@@ -15,7 +15,7 @@
             <a href="/blog">Blog</a>
             <a href="/contact">Contact</a>
             <a href="/about">About</a>
-            <a href="/games"></a>
+            <a href="/games">Games</a>
         </div>
     </nav>
     <header>
