@@ -17,6 +17,11 @@ a {
 
 @media(max-width: 1000px)
 {
+    main .snowblitz figure {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
     main .snowblitz figure img {
         max-width: 80%;
     }
