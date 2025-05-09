@@ -39,7 +39,7 @@
                 <li>Growth Hormones: These are <span style="color:rgb(255,0,0)">RED</span> and cause the player to grow at slightly above the base shrink rate. The player will constantly grow while its effects are active</li>
             </ul>
 
-            <a href="/download/Snowblitz1.1.3.zip" download><h2 style="color: rgb(85,134,120)">Download Game</h2></a>
+            <a href="{{ asset('downloads/Snowblitz1.1.3.zip') }}" download><h2 style="color: rgb(85,134,120)">Download Game</h2></a>
 
             <h2>Instructions:</h2>
             <ul>
