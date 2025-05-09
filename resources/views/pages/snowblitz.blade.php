@@ -6,13 +6,14 @@
     <section class="snowblitz">
         <figure>
             <img src="{{asset('images/snowblitz_menu.png')}}" alt="Screenshot of Main Menu screen">
+            <caption>Main menu of game</caption>
         </figure>
-        <caption>Main menu of game</caption>
-        <br>
+        
+        
         <figure>
             <img src="{{asset('images/snowblitz_game.png')}}" alt="Gameplay screenshot of Snow Blitz">
+            <caption>Gameplay: The Player is the large blue square. The player moves left and right. The default color for the player is white.</caption>
         </figure>
-        <caption>Gameplay: The Player is the large blue square. The player moves left and right. The default color for the player is white.</caption>
 
         <section class="snowblitz_subsection_one">
             <p>
