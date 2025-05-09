@@ -11,4 +11,4 @@ Route::get('/about', [PagesController::class, 'about']);
 Route::get("/games", [PagesController::class, 'games']);
 Route::get('/games/snowblitz', [PagesController::class, 'snowblitz']);
 
-Route::get('/download/{$filename}', [DownloadController::class, 'SnowBlitz']);
+Route::get('/download/{filename}', [DownloadController::class, 'SnowBlitz']);
