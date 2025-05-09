@@ -11,12 +11,4 @@ Route::get('/about', [PagesController::class, 'about']);
 Route::get("/games", [PagesController::class, 'games']);
 Route::get('/games/snowblitz', [PagesController::class, 'snowblitz']);
 
-Route::get('/download/{filename}', function ($filename) {
-    $path = public_path("/downloads/{$filename}");
-
-    if (!file_exists($path)) {
-        abort(404);
-    }
-
-    return response()->download($path);
-});
+Route::get('/download/Snowblitz1.1.3.zip', [DownloadController::class, 'SnowBlitz']);
