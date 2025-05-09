@@ -24,6 +24,9 @@ main h1 {
 
 @media(max-width: 1000px)
 {
+    main {
+        margin-bottom: 30px;
+    }
     main .snowblitz {
         display: flex;
         width: 100%;
