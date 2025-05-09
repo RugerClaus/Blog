@@ -213,6 +213,6 @@ a {
     }
 
     main .snowblitz .snowblitz_subsection_one ul {
-        list-style-type: disc;
+        list-style-type: circle;
     }
 }
