@@ -18,7 +18,7 @@ a {
 @media(max-width: 1000px)
 {
     main .snowblitz figure {
-        max-width: 50%;
+        max-width: 100%;
         display: flex;
         justify-content: center;
         flex-direction: column;
