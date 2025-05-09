@@ -49,7 +49,15 @@ main h1 {
     main .snowblitz figure img {
         max-width: 80%;
     }
-
+    footer {
+        bottom: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 40px;
+        background-color: darkgray;
+        color: whitesmoke;
+    }
 }
 
 @media(min-width:1000px){
