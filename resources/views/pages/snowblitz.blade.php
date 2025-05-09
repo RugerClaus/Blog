@@ -35,11 +35,15 @@
             </p>
             <ul>
                 <li>Absorb Rock: These are <span style="color: rgb(0,0,255);">BLUE</span> and let the player grow by colliding with rocks. This prevents rocks from killing the player while this powerup is active</li>
+                <li>-</li>
                 <li>Ice IX: These are <span style="color: rgb(0,255,0);">GREEN</span> and stop the player from shrinking/melting while its effects are active</li>
+                <li>-</li>
                 <li>Growth Hormones: These are <span style="color:rgb(255,0,0)">RED</span> and cause the player to grow at slightly above the base shrink rate. The player will constantly grow while its effects are active</li>
             </ul>
 
-            <a href="https://admin.unknownanarchist.blog/downloads/Snowblitz1.1.3.zip" download><h2 style="color: rgb(85,134,120)">Download Game</h2></a>
+            <label for="Windowsdl">Click to : </label><a id="Windowsdl" href="https://downloads.unknownanarchist.blog/downloads/Snowblitz1.1.3.zip" download><h2 style="color: rgb(85,134,120)">Download For Windows</h2></a>
+            
+            <label for="Linuxdl">Click to : </label><a id="Linuxdl" href="https://downloads.unknownanarchist.blog/downloads/Snowblitz1.1.3-Linux.zip" download><h2 style="color: rgb(85,134,120)">Download For Linux</h2></a>
 
             <h2>Instructions:</h2>
             <ul>
@@ -49,6 +53,11 @@
                 <li>Open /dist</li>
                 <li>Run main.exe</li>
             </ul>
+
+            <br>
+            <h2>Source code on github:</h2>
+            <a href="https://github.com/rugerclaus/snowgame"><h2 style="color: rgb(85,134,120)">Git repo</h2></a>
+            <p>This requires Pygame*</p>
         </section>
 
     </section>
