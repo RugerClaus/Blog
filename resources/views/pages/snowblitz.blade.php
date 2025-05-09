@@ -57,7 +57,11 @@
             <br>
             <h2>Source code on github:</h2>
             <a href="https://github.com/rugerclaus/snowgame"><h2 style="color: rgb(85,134,120)">Git repo</h2></a>
-            <p>This requires Pygame*</p>
+            <p>This requires Pygame-ce*</p>
+            <p>To use this run:</p>
+            <br>
+            <br>
+            <p>pip install pygame-ce</p>
         </section>
 
     </section>
