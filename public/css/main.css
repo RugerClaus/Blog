@@ -25,6 +25,9 @@ a {
     main .snowblitz figure img {
         max-width: 80%;
     }
+    main .snowblitz {
+        gap: 2em;
+    }
     main .snowblitz caption {
         padding-bottom:1rem;
         padding-top: 1rem;
