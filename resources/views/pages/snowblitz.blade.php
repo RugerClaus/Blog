@@ -51,7 +51,7 @@
                 <li>Extract the files to a directory of your choosing</li>
                 <li>Open Snowblitz1.1.3</li>
                 <li>Open /dist</li>
-                <li>Run main.exe</li>
+                <li>Run main.exe - On linux, you just run ./main in the directory</li>
             </ul>
 
             <br>
