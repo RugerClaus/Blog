@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 
 class DownloadController extends Controller
 {
-    public function SnowBlitz()
+    public function SnowBlitz($filename)
     {
         $path = public_path("downloads/{$filename}");
 
