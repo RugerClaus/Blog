@@ -43,7 +43,7 @@
 
             <label for="Windowsdl">Click to : </label><a id="Windowsdl" href="https://downloads.unknownanarchist.blog/downloads/Snowblitz1.1.3.zip" download><h2 style="color: rgb(85,134,120)">Download For Windows</h2></a>
             
-            <label for="Linuxdl">Click to : </label><a id="Linuxdl" href="https://downloads.unknownanarchist.blog/downloads/Snowblitz1.1.3-Linux.zip" download><h2 style="color: rgb(85,134,120)">Download For Linux</h2></a>
+            <label for="Linuxdl">Click to : </label><a id="Linuxdl" href="https://downloads.unknownanarchist.blog/downloads/Snowblitz1.1.3-Linux.zip" download><h2 style="color: rgb(85,134,120)">Download For Ubuntu</h2></a>
 
             <h2>Instructions:</h2>
             <ul>
@@ -62,6 +62,10 @@
             <br>
             <br>
             <p>pip install pygame-ce</p>
+            <p><b>**Note that I cannot guarantee it will work on any other OS besides Windows 10 and Ubuntu 24.04</b></p>
+            <p><b>**If you use another operating system, you can package the game with Pyinstaller, and then drag the assets into the /dist directory</b></p>
+            <p><b>This requires you to build the project from source</b></p>
+            <p><b>Otherwise the game is cross platform assuming all dependencies are met (pygame-ce), it is cross platform.</b></p>
         </section>
 
     </section>
