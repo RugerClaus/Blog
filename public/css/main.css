@@ -25,6 +25,10 @@ a {
     main .snowblitz figure img {
         max-width: 80%;
     }
+    main .snowblitz caption {
+        margin-bottom:1rem;
+        margin-top: 1rem;
+    }
 }
 
 @media(min-width:1000px){
