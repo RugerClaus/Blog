@@ -15,11 +15,10 @@ a {
     text-decoration: none;
 }
 
-@media(max-width: 500px)
+@media(max-width: 1000px)
 {
-    nav 
-    {
-        width: 100%;
+    main .snowblitz figure img {
+        max-width: 80%;
     }
 }
 
