@@ -34,6 +34,18 @@
             <p>
                 Starting at level 5 you get your first power ups. Power ups are brightly colored squares. Currently there are three types:
             </p>
+            <p>
+                Starting at level 15 you see the first "Level Reducers". These subtract their labeled value from the size threshold needed to level up. 
+            </p>
+            <p>
+                This will make it easier for players not to grow too much to where they can't play the game past level 30. 
+            </p>
+            <p>
+                I will be setting up a mailing list or comment section or something to provide updates on when updates are released. May make a launcher at some point.
+            </p>
+            <p>
+                Also looking for feedback from anyone reading this and trying it
+            </p>
             <ul>
                 <li>Absorb Rock: These are <span style="color: rgb(0,0,255);">BLUE</span> and let the player grow by colliding with rocks. This prevents rocks from killing the player while this powerup is active</li>
                 <li>-</li>
@@ -42,9 +54,9 @@
                 <li>Growth Hormones: These are <span style="color:rgb(255,0,0)">RED</span> and cause the player to grow at slightly above the base shrink rate. The player will constantly grow while its effects are active</li>
             </ul>
 
-            <label for="Windowsdl">Click to : </label><a id="Windowsdl" href="https://downloads.unknownanarchist.blog/Snowblitz1.1.3.zip" download><h2 style="color: rgb(85,134,120)">Download For Windows</h2></a>
+            <label for="Windowsdl">Click to : </label><a id="Windowsdl" href="https://downloads.unknownanarchist.blog/Snowblitz1.2.0.zip" download><h2 style="color: rgb(85,134,120)">Download For Windows</h2></a>
             
-            <label for="Linuxdl">Click to : </label><a id="Linuxdl" href="https://downloads.unknownanarchist.blog/Snowblitz1.1.3-Linux.zip" download><h2 style="color: rgb(85,134,120)">Download For Ubuntu</h2></a>
+            <label for="Linuxdl">Click to : </label><a id="Linuxdl" href="https://downloads.unknownanarchist.blog/Snowblitz1.2.0-Linux.zip" download><h2 style="color: rgb(85,134,120)">Download For Ubuntu</h2></a>
 
             <h2>Instructions:</h2>
             <ul>
@@ -68,7 +80,9 @@
             <p><b>This requires you to build the project from source</b></p>
             <p><b>Otherwise the game is cross platform assuming all dependencies are met (pygame-ce), it is cross platform.</b></p>
         </section>
-
+        <section class="snowblitz_subsection_two">
+            <h2>Changelog:</h2>
+        </section>
     </section>
     
     
