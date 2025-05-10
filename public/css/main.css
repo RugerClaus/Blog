@@ -29,12 +29,13 @@ main .homeText {
     display: flex;
     flex-direction: column;
     gap: 2em;
+    justify-content: center;
 }
 
 main .homeText .homeSubText {
     display: flex;
     width: 60%;
-    
+
 }
 
 @media(max-width: 1000px)
