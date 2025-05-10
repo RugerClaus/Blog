@@ -36,7 +36,12 @@ main .homeText .homeSubText {
     display: flex;
     width: 80%;
     flex-direction: column;
+    gap: 2rem;
 
+}
+
+main .homeText .homeSubText a {
+    color: blue;
 }
 
 @media(max-width: 1000px)
