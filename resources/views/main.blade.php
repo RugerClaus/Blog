@@ -29,6 +29,7 @@
     <main>
         @yield('main')
     </main>
+    <br>
     <footer>
         Copyleft - take what parts ya want, just throw me a bone.
     </footer>

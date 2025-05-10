@@ -24,9 +24,6 @@ main h1 {
 
 @media(max-width: 1000px)
 {
-    main {
-        margin-bottom: 30px;
-    }
     main .snowblitz {
         display: flex;
         width: 100%;
@@ -35,7 +32,7 @@ main h1 {
         align-items: center;
         gap: 2em;
     }
-        main .snowblitz .snowblitz_subsection_one {
+    main .snowblitz .snowblitz_subsection_one {
         width: 90%;
         display: flex;
         flex-direction: column;
