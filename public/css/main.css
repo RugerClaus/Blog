@@ -37,6 +37,7 @@ main .homeText .homeSubText {
     width: 80%;
     flex-direction: column;
     gap: 1rem;
+    align-items: center;
 
 }
 
