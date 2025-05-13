@@ -75,7 +75,7 @@
             <br>
             <br>
             <p>pip install pygame-ce</p>
-            <p><b>**Note that I cannot guarantee it will work on any other OS besides Windows 10 and Ubuntu 24.04</b></p>
+            <p><b>**Note that I cannot guarantee it will work on any other OS besides Windows 10 and Ubuntu 22.04</b></p>
             <p><b>**If you use another operating system, you can package the game with Pyinstaller, and then drag the assets into the /dist directory</b></p>
             <p><b>This requires you to build the project from source</b></p>
             <p><b>Otherwise the game is cross platform assuming all dependencies are met (pygame-ce), it is cross platform.</b></p>
