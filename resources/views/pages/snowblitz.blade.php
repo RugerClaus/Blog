@@ -68,8 +68,8 @@
             </ul>
 
             <br>
-            <h2>Source code on github:</h2>
-            <a href="https://github.com/rugerclaus/snowgame"><h2 style="color: rgb(85,134,120)">Git repo</h2></a>
+            <h2>Source code:</h2>
+            <a href="https://downloads.unknownanarchist.blog/SnowBlitz-Source.zip"><h2 style="color: rgb(85,134,120)">SnowBlitz-Source.zip</h2></a>
             <p>This requires Pygame-ce*</p>
             <p>To use this run:</p>
             <br>
@@ -79,9 +79,16 @@
             <p><b>**If you use another operating system, you can package the game with Pyinstaller, and then drag the assets into the /dist directory</b></p>
             <p><b>This requires you to build the project from source</b></p>
             <p><b>Otherwise the game is cross platform assuming all dependencies are met (pygame-ce), it is cross platform.</b></p>
+            <p><b>Once you have Pygame-CE installed (globally or locally) run:</b></p>
+            <h3>Linux in ~/root_dir</h3>
+            <p style="color:greenyellow">python3 main.py</p>
+            <h3>Windows in PATH\TO\ROOTDIR\main.py</h3>
+            <p style="color: greenyellow">python main.py</p>
         </section>
         <section class="snowblitz_subsection_two">
-            <h2>Changelog:</h2>
+            <h2>UPDATE</h2>
+            <p>For anyone curious, I am porting this game to C++ using SDL directly for more control and better memory management as well as expandability</p>
+            <p>At some point, this will be a 3D game once I'm able to figure out OpenGL properly, but for now, I will soon be updating with the earliest stable version of the game written in C++</p>
         </section>
     </section>
     
