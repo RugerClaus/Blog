@@ -56,7 +56,7 @@
 
             <label for="Windowsdl">Click to : </label><a id="Windowsdl" href="https://downloads.unknownanarchist.blog/SnowBlitz1.2.2.zip" download><h2 style="color: rgb(85,134,120)">Download For Windows</h2></a>
             <p>Windows release is currently Stable Alpha 1.2.2</p>
-            <label for="Linuxdl">Click to : </label><a id="Linuxdl" href="https://downloads.unknownanarchist.blog/SnowBlitz1.3.0-Linux.zip" download><h2 style="color: rgb(85,134,120)">Download For Ubuntu</h2></a>
+            <label for="Linuxdl">Click to : </label><a id="Linuxdl" href="https://downloads.unknownanarchist.blog/SnowBlitz1.3.1a-Linux.zip" download><h2 style="color: rgb(85,134,120)">Download For Ubuntu</h2></a>
             <p>Ubuntu release is Stable Alpha 1.3.0</p>
             <h2>Instructions:</h2>
             <ul>
@@ -64,7 +64,7 @@
                 <li>Extract the files to a directory of your choosing</li>
                 <li>Open Snowblitz1.3.0</li>
                 <li>Open /SnowBlitz*</li>
-                <li>Run main.exe - On linux, you just run ./SnowBlitz_vAlpha_1.3.0 in the directory</li>
+                <li>Run main.exe - On linux, you just run ./SnowBlitz_vAlpha_1.3.1a main the directory</li>
             </ul>
 
             <br>
