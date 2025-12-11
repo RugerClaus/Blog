@@ -60,9 +60,9 @@
             <p>Ubuntu release is Stable Alpha 1.3.0</p>
             <h2>Instructions:</h2>
             <ul>
-                <li>Download Snowblitz1.3.0.zip using the link above.</li>
+                <li>Download Snowblitz1.3.1a.zip using the link above.</li>
                 <li>Extract the files to a directory of your choosing</li>
-                <li>Open Snowblitz1.3.0</li>
+                <li>Open Snowblitz1.3.1a</li>
                 <li>Open /SnowBlitz*</li>
                 <li>Run main.exe - On linux, you just run ./SnowBlitz_vAlpha_1.3.1a main the directory</li>
             </ul>
