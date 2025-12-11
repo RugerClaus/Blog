@@ -57,7 +57,7 @@
             <label for="Windowsdl">Click to : </label><a id="Windowsdl" href="https://downloads.unknownanarchist.blog/SnowBlitz1.2.2.zip" download><h2 style="color: rgb(85,134,120)">Download For Windows</h2></a>
             <p>Windows release is currently Stable Alpha 1.2.2</p>
             <label for="Linuxdl">Click to : </label><a id="Linuxdl" href="https://downloads.unknownanarchist.blog/SnowBlitz1.3.1a-Linux.zip" download><h2 style="color: rgb(85,134,120)">Download For Ubuntu</h2></a>
-            <p>Ubuntu release is Stable Alpha 1.3.0</p>
+            <p>Ubuntu release is Stable Alpha 1.3.1a</p>
             <h2>Instructions:</h2>
             <ul>
                 <li>Download Snowblitz1.3.1a.zip using the link above.</li>
