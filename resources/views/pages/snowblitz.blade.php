@@ -12,7 +12,7 @@
         
         <figure>
             <img src="{{asset('images/snowblitz_game.png')}}" alt="Gameplay screenshot of Snow Blitz">
-            <caption>Gameplay: The Player is the large blue square. The player moves left and right. The default color for the player is white.</caption>
+            <caption>Gameplay: The Player is the large white circle/snowball.</caption>
         </figure>
 
         <section class="snowblitz_subsection_one">
